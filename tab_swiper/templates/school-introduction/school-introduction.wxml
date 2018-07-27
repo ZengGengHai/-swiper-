@@ -1,0 +1,3 @@
+<template name='school-introduction'>
+  <view class="wrapper">.学校简介.</view>
+</template>

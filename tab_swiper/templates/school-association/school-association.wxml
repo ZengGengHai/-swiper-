@@ -1,0 +1,3 @@
+<template name='school-association'>
+  <view class="association">.缤纷社团.</view>
+</template>

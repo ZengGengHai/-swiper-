@@ -1,0 +1,7 @@
+.association {
+  margin-top:6rpx;
+  width:100vw;
+  height:94vh;
+  text-align: center;
+  line-height: 94vh;
+  }

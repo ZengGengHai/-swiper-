@@ -1,0 +1,3 @@
+<template name='school-news'>
+   <view class='news'>.校园新闻.</view>
+</template>
